@@ -16,7 +16,7 @@
     <div class="container">
         <div class="card mt-5 border-white bg-transparent">
             <div class="card-body">
-                <h2 class="text-start fw-bold font-monospace text-white my-4">Relationship : One To One</h2>
+                <h2 class="text-start fw-bold font-monospace text-white my-4">Relationship : One To One And One to Many</h2>
                 <h3 class="text-start"><a class="link-light" href="https://github.com/derpynooby">https://github.com/derpynooby</a></h3>
                 <table class="table table-bordered border-white table-striped text-white">
                     <thead>
