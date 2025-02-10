@@ -12,7 +12,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet"
         crossorigin="anonymous">
 </head>
-<body  style="background-image:url(https://64.media.tumblr.com/e85d3e398ccf035c0d5dd74a34d57eb9/tumblr_ngbasnF0bG1qze3hdo1_r3_500.gif); background-size: cover; background-repeat: no-repeat;">
+<body  style="background-image:url(https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif); background-size: cover; background-repeat: no-repeat;">
     <div class="container">
         <div class="card mt-5 border-white bg-transparent">
             <div class="card-body">
