@@ -23,6 +23,7 @@
                         <tr>
                             <th>Nama User</th>
                             <th>Nomor Telepon</th>
+                            <th>Roles</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -30,6 +31,11 @@
                         <tr>
                             <td>{{ $user->name }}</td>
                             <td>{{ $user->phone->phone }}</td>
+                            <td>
+                                @foreach ($user->roles()->get() as $role)
+                                <button class="btn btn-sm btn-primary me-2">{{ $role->name }}</button>
+                                @endforeach
+                            </td>
                         </tr>
                         @endforeach
                     </tbody>
