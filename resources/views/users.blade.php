@@ -12,13 +12,13 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet"
         crossorigin="anonymous">
 </head>
-<body>
+<body  style="background-image:url(https://64.media.tumblr.com/e85d3e398ccf035c0d5dd74a34d57eb9/tumblr_ngbasnF0bG1qze3hdo1_r3_500.gif); background-size: cover; background-repeat: no-repeat;">
     <div class="container">
-        <div class="card mt-5">
+        <div class="card mt-5 border-white bg-transparent">
             <div class="card-body">
-                <h3 class="text-center"><a href="https://santrikoding.com">www.santrikoding.com</a></h3>
-                <h5 class="text-center my-4">Laravel Eloquent Relationship : One To One</h5>
-                <table class="table table-bordered table-striped">
+                <h2 class="text-start fw-bold font-monospace text-white my-4">Relationship : One To One</h2>
+                <h3 class="text-start"><a class="link-light" href="https://github.com/derpynooby">https://github.com/derpynooby</a></h3>
+                <table class="table table-bordered border-white table-striped text-white">
                     <thead>
                         <tr>
                             <th>Nama User</th>
