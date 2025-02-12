@@ -23,10 +23,12 @@
             <div class="card-body">
                 <!-- Card body container -->
                 <h2 class="text-start fw-bold font-monospace text-white my-4">Relationship : One To One And One to Many</h2>
+                <h3 class="text-start fw-bold font-monospace text-white my-4">Made by M.Kazim</h3>
+
                 <!-- Main heading with styling -->
                 <h3 class="text-start"><a class="link-light" href="https://github.com/derpynooby">https://github.com/derpynooby</a></h3>
                 <!-- Subheading with GitHub link -->
-                <table class="table table-bordered border-white table-striped text-white">
+                <table class="table table-bordered border-white table-striped text-white text-light">
                     <!-- Table with Bootstrap styling -->
                     <thead>
                         <!-- Table header section -->
